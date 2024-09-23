@@ -25,7 +25,15 @@ A 10% subset of the dataset (9,600 observations) was used for training and valid
 
 ## Project Structure
 
-├── README.md # Project overview and setup instructions ├── app.py # Main application logic for the microservice ├── requirements.txt # Python dependencies required for the project ├── Dockerfile # Docker configuration for containerization ├── model.pkl # Trained model file ├── text_classification_with_transfer_learning.ipynb # Jupyter notebook for model training ├── screenshots/ # Screenshots of project setup and deployment │ ├── project_creation.png │ ├── service_logs.png │ └── bucket_creation.png └── presentations/ # Presentation files for the project └── AG_News_Deployment_Presentation.pptx
+├── README.md # Project overview and setup instructions 
+├── app.py # Main application logic for the microservice 
+├── requirements.txt # Python dependencies required for the project 
+├── Dockerfile # Docker configuration for containerization 
+├── model.pkl # Trained model file 
+├── text_classification_with_transfer_learning.ipynb # Jupyter notebook for model training 
+├── screenshots/ # Screenshots of project setup and deployment │ ├── project_creation.png │ ├── service_logs.png │ └── bucket_creation.png 
+└── presentations/ # Presentation files for the project 
+└── AG_News_Deployment_Presentation.pptx
 
 
 ## Setup Instructions
